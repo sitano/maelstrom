@@ -18,3 +18,4 @@ store/
 .idea
 /demo/rust/target
 __pycache__/
+maelstrom-lin-kv-sd-paxos
